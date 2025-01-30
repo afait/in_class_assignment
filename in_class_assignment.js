@@ -32,3 +32,7 @@ while (num <= 10) {
     console.log (num);
     num += 2;
 }
+
+// Task 4
+function calculateSquare(num) {return num * num};
+console.log(calculateSquare(4));
